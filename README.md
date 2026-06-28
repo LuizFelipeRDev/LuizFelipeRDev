@@ -1,6 +1,6 @@
 
 <p align="center">  
-<img src="https://readme-typing-svg.demolab.com/?lines=Persistencia+%7C+Disciplina+%7C+Foco;React+%7C+Node+%7C+Java;Construindo+e+evoluindo+todos+os+dias&center=true&width=500&height=50" />  
+<img src="https://readme-typing-svg.demolab.com/?lines=Persistencia+%7C+Disciplina+%7C+Foco;Construindo+e+evoluindo+todos+os+dias&center=true&width=500&height=50" />  
 </p>
 
 # Luiz Felipe Vieira de Oliveira Ribeiro
